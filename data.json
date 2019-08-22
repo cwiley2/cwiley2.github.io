@@ -1,0 +1,22 @@
+{
+	"username": "cwiley2",
+	"goals": [{
+			"Goal 1": {
+				"field": "Graduate this semester with an overall gpa of 3.00",
+				"confidence": 8
+			}
+		},
+		{
+			"Goal 2": {
+				"field": "Move out of my sisters house and in with my significant other",
+				"confidence": 2
+			}
+		},
+		{
+			"Goal 3": {
+				"field": "Don't cause stress by not procrastinating",
+				"confidence": 1
+			}
+		}
+	]
+}
